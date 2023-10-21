@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://rust-stuco.github.io"
+base_url = "https://old-rust-stuco.duvallj.pw"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -11,10 +11,10 @@ build_search_index = false
 theme = "oceanic-zen"
 
 # index.html page title
-title = "98-008: Rust Stuco"
+title = "OLD 98-008: Rust Stuco"
 
 # index.html page description
-description = "The course website for 98-008: Student Taught Courses (StuCo): Shilling The Rust Programming Language"
+description = "The archived Spring '23 course website for 98-008: Student Taught Courses (StuCo): Shilling The Rust Programming Language"
 
 [markdown]
 # Whether to do syntax highlighting
